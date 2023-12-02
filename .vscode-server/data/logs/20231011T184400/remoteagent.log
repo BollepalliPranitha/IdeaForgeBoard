@@ -1,0 +1,23 @@
+2023-10-11 18:44:00.895 [info] 
+
+
+
+
+2023-10-11 18:44:00.895 [info] Extension host agent started.
+2023-10-11 18:44:00.905 [info] Started initializing default profile extensions in extensions installation folder. file:///home/pranitha/.vscode-server/extensions
+2023-10-11 18:44:00.932 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/pranitha/.vscode-server/extensions
+2023-10-11 18:44:01.175 [info] [127.0.0.1][95ebc946][ManagementConnection] New connection established.
+2023-10-11 18:44:01.384 [info] [127.0.0.1][5730337b][ExtensionHostConnection] New connection established.
+2023-10-11 18:44:01.783 [info] [127.0.0.1][5730337b][ExtensionHostConnection] <5817> Launched Extension Host Process.
+2023-10-11 18:44:20.675 [info] [127.0.0.1][95ebc946][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-11 18:44:20.677 [info] [127.0.0.1][5730337b][ExtensionHostConnection] <5817> Extension Host Process exited with code: 0, signal: null.
+2023-10-11 18:44:21.835 [info] [127.0.0.1][41b05270][ManagementConnection] New connection established.
+2023-10-11 18:44:22.235 [info] [127.0.0.1][72ae49b5][ExtensionHostConnection] New connection established.
+2023-10-11 18:44:22.240 [info] [127.0.0.1][72ae49b5][ExtensionHostConnection] <5934> Launched Extension Host Process.
+2023-10-11 18:44:34.630 [info] [127.0.0.1][41b05270][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-11 18:44:34.651 [info] [127.0.0.1][72ae49b5][ExtensionHostConnection] <5934> Extension Host Process exited with code: 0, signal: null.
+2023-10-11 18:44:35.669 [info] [127.0.0.1][25cf76fc][ManagementConnection] New connection established.
+2023-10-11 18:44:36.006 [info] [127.0.0.1][c6b85067][ExtensionHostConnection] New connection established.
+2023-10-11 18:44:36.019 [info] [127.0.0.1][c6b85067][ExtensionHostConnection] <6034> Launched Extension Host Process.
+2023-10-11 18:44:58.092 [info] [127.0.0.1][25cf76fc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-11 18:44:58.127 [info] [127.0.0.1][c6b85067][ExtensionHostConnection] <6034> Extension Host Process exited with code: 0, signal: null.

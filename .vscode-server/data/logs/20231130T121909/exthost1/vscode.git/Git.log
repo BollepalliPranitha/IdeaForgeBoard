@@ -1,0 +1,44 @@
+2023-11-30 12:19:11.409 [info] Log level: Info
+2023-11-30 12:19:11.409 [info] Validating found git in: "git"
+2023-11-30 12:19:11.409 [info] Using git "2.34.1" from "git"
+2023-11-30 12:19:11.409 [info] > git rev-parse --show-toplevel [7ms]
+2023-11-30 12:19:11.409 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-30 12:19:11.409 [info] > git rev-parse --show-toplevel [5ms]
+2023-11-30 12:19:11.409 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-30 12:19:11.409 [info] > git rev-parse --show-toplevel [1ms]
+2023-11-30 12:19:11.409 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-30 12:19:11.413 [info] > git rev-parse --show-toplevel [5ms]
+2023-11-30 12:19:11.413 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-30 12:19:11.426 [info] > git rev-parse --show-toplevel [9ms]
+2023-11-30 12:19:11.426 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-30 12:19:11.431 [info] > git rev-parse --show-toplevel [1ms]
+2023-11-30 12:19:11.438 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-11-30 12:19:11.450 [info] Open repository: /home/pranitha/.nvm
+2023-11-30 12:19:11.481 [info] > git rev-parse --show-toplevel [18ms]
+2023-11-30 12:19:11.481 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-30 12:19:11.482 [info] > git config --get commit.template [23ms]
+2023-11-30 12:19:11.497 [info] > git rev-parse --show-toplevel [9ms]
+2023-11-30 12:19:11.497 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-30 12:19:11.531 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [34ms]
+2023-11-30 12:19:11.537 [info] > git rev-parse --show-toplevel [35ms]
+2023-11-30 12:19:11.538 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-30 12:19:11.545 [info] > git status -z -uall [9ms]
+2023-11-30 12:19:11.545 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-30 12:19:11.545 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-30 12:19:11.594 [info] > git config --get commit.template [5ms]
+2023-11-30 12:19:11.594 [info] > git rev-parse --show-toplevel [10ms]
+2023-11-30 12:19:11.594 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-30 12:19:11.604 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [2ms]
+2023-11-30 12:19:11.613 [info] > git status -z -uall [2ms]
+2023-11-30 12:29:49.015 [info] > git rev-parse --show-toplevel [1ms]
+2023-11-30 12:29:49.016 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-30 12:31:02.444 [info] > git rev-parse --show-toplevel [1ms]
+2023-11-30 12:31:02.444 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-30 12:31:11.708 [info] > git rev-parse --show-toplevel [1ms]
+2023-11-30 12:31:11.708 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-30 12:32:38.944 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-30 12:32:38.944 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-30 12:33:59.815 [info] > git rev-parse --show-toplevel [9ms]
+2023-11-30 12:33:59.815 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-11-30 12:35:45.735 [info] > git rev-parse --show-toplevel [2ms]
+2023-11-30 12:35:45.735 [info] fatal: not a git repository (or any of the parent directories): .git

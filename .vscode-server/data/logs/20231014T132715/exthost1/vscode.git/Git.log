@@ -1,0 +1,96 @@
+2023-10-14 13:27:17.917 [info] Log level: Info
+2023-10-14 13:27:17.917 [info] Validating found git in: "git"
+2023-10-14 13:27:17.917 [info] Using git "2.34.1" from "git"
+2023-10-14 13:27:17.917 [info] > git rev-parse --show-toplevel [5ms]
+2023-10-14 13:27:17.917 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-14 13:27:17.917 [info] > git rev-parse --show-toplevel [12ms]
+2023-10-14 13:27:17.917 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-14 13:27:17.925 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-14 13:27:17.925 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-14 13:27:17.930 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-14 13:27:17.930 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-14 13:27:17.935 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-14 13:27:17.935 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-14 13:27:17.942 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-14 13:27:17.952 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2023-10-14 13:27:17.963 [info] Open repository: /home/pranitha/.nvm
+2023-10-14 13:27:18.003 [info] > git rev-parse --show-toplevel [31ms]
+2023-10-14 13:27:18.003 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-14 13:27:18.003 [info] > git config --get commit.template [34ms]
+2023-10-14 13:27:18.034 [info] > git rev-parse --show-toplevel [27ms]
+2023-10-14 13:27:18.034 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-14 13:27:18.039 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-14 13:27:18.039 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-14 13:27:18.045 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [12ms]
+2023-10-14 13:27:18.051 [info] > git rev-parse --show-toplevel [7ms]
+2023-10-14 13:27:18.051 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-14 13:27:18.059 [info] > git status -z -uall [10ms]
+2023-10-14 13:27:18.071 [info] > git config --get commit.template [1ms]
+2023-10-14 13:27:18.081 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [1ms]
+2023-10-14 13:27:18.088 [info] > git status -z -uall [2ms]
+2023-10-14 13:27:18.502 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-14 13:31:17.812 [info] > git rev-parse --show-toplevel [8ms]
+2023-10-14 13:31:17.812 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-14 13:47:37.423 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-14 13:47:37.423 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-14 13:47:37.911 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-14 13:47:37.916 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-10-14 13:47:37.927 [info] Open repository: /home/pranitha/CNS
+2023-10-14 13:47:37.945 [info] > git config --get commit.template [12ms]
+2023-10-14 13:47:37.945 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-10-14 13:47:37.951 [info] > git status -z -uall [2ms]
+2023-10-14 13:47:37.965 [info] > git config --get commit.template [4ms]
+2023-10-14 13:47:37.966 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-10-14 13:47:37.970 [info] > git status -z -uall [1ms]
+2023-10-14 13:48:37.905 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-14 13:49:37.860 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-14 13:51:37.860 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-14 13:51:37.860 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-14 13:53:37.902 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-14 13:53:37.907 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-10-14 13:53:37.912 [info] Open repository: /home/pranitha/New folder/.nvm
+2023-10-14 13:53:37.924 [info] > git config --get commit.template [5ms]
+2023-10-14 13:53:37.924 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [1ms]
+2023-10-14 13:53:37.939 [info] > git status -z -uall [8ms]
+2023-10-14 13:53:37.986 [info] > git config --get commit.template [2ms]
+2023-10-14 13:53:37.998 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [1ms]
+2023-10-14 13:53:38.013 [info] > git status -z -uall [9ms]
+2023-10-14 13:54:37.847 [info] > git check-ignore -v -z --stdin [0ms]
+2023-10-14 13:55:37.947 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-14 13:55:37.947 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-14 13:55:37.952 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-14 13:55:37.952 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-14 14:01:37.849 [info] > git rev-parse --show-toplevel [0ms]
+2023-10-14 14:01:37.849 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-14 14:01:55.346 [warning] ENOENT: no such file or directory, open '/home/pranitha/CNS/.git/HEAD'
+2023-10-14 14:01:55.354 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/pranitha/CNS/.git/config'
+2023-10-14 14:01:55.365 [warning] ENOENT: no such file or directory, open '/home/pranitha/New folder/.nvm/.git/HEAD'
+2023-10-14 14:01:55.368 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/pranitha/New folder/.nvm/.git/config'
+2023-10-14 14:01:55.376 [warning] ENOENT: no such file or directory, open '/home/pranitha/CNS/.git/HEAD'
+2023-10-14 14:01:55.386 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/pranitha/CNS/.git/config'
+2023-10-14 14:01:55.389 [info] > git remote --verbose [21ms]
+2023-10-14 14:01:55.389 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-14 14:01:55.391 [info] > git symbolic-ref --short HEAD [26ms]
+2023-10-14 14:01:55.391 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-14 14:01:55.400 [warning] ENOENT: no such file or directory, open '/home/pranitha/New folder/.nvm/.git/HEAD'
+2023-10-14 14:01:55.404 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/pranitha/New folder/.nvm/.git/config'
+2023-10-14 14:01:55.408 [info] > git config --get commit.template [36ms]
+2023-10-14 14:01:55.409 [info] > git config --get commit.template [1ms]
+2023-10-14 14:01:55.410 [info] > git remote --verbose [5ms]
+2023-10-14 14:01:55.410 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-14 14:01:55.410 [info] > git symbolic-ref --short HEAD [10ms]
+2023-10-14 14:01:55.410 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-14 14:01:55.414 [info] > git rev-parse HEAD [18ms]
+2023-10-14 14:01:55.414 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-14 14:01:55.415 [info] > git rev-parse HEAD [1ms]
+2023-10-14 14:01:55.415 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-14 14:01:55.983 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-14 14:02:00.980 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-14 14:02:01.022 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-14 14:02:01.022 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-14 14:02:30.000 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-14 14:02:31.633 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-14 14:02:39.507 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-14 14:02:39.507 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-14 14:02:40.919 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-14 14:02:40.919 [info] fatal: not a git repository (or any of the parent directories): .git
