@@ -1,0 +1,47 @@
+2023-12-04 13:42:43.882 [info] Log level: Info
+2023-12-04 13:42:43.882 [info] Validating found git in: "git"
+2023-12-04 13:42:43.882 [info] Using git "2.34.1" from "git"
+2023-12-04 13:42:43.882 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-04 13:42:43.882 [info] > git rev-parse --git-dir --git-common-dir [8ms]
+2023-12-04 13:42:43.882 [info] Open repository: /home/pranitha
+2023-12-04 13:42:43.900 [info] > git rev-parse --show-toplevel [5ms]
+2023-12-04 13:42:43.901 [info] > git config --get commit.template [13ms]
+2023-12-04 13:42:43.917 [info] No remotes found in the git config file.
+2023-12-04 13:42:43.918 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-12-04 13:42:43.925 [info] > git rev-parse --show-toplevel [16ms]
+2023-12-04 13:42:43.988 [info] > git rev-parse --show-toplevel [57ms]
+2023-12-04 13:42:44.034 [info] > git rev-parse --show-toplevel [39ms]
+2023-12-04 13:42:44.041 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-04 13:42:44.047 [info] > git rev-parse --git-dir --git-common-dir [0ms]
+2023-12-04 13:42:44.052 [info] Open repository: /home/pranitha/.nvm
+2023-12-04 13:42:44.067 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-04 13:42:44.069 [info] > git config --get commit.template [10ms]
+2023-12-04 13:42:44.088 [info] > git rev-parse --show-toplevel [12ms]
+2023-12-04 13:42:44.096 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [10ms]
+2023-12-04 13:42:44.107 [info] > git rev-parse --show-toplevel [12ms]
+2023-12-04 13:42:44.115 [info] > git status -z -uall [14ms]
+2023-12-04 13:42:44.131 [info] > git rev-parse --show-toplevel [16ms]
+2023-12-04 13:42:44.131 [info] > git config --get commit.template [1ms]
+2023-12-04 13:42:44.143 [info] > git rev-parse --show-toplevel [7ms]
+2023-12-04 13:42:44.148 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [7ms]
+2023-12-04 13:42:44.168 [info] > git status -z -uall [12ms]
+2023-12-04 13:42:44.392 [info] > git status -z -uall [468ms]
+2023-12-04 13:42:44.392 [info] > git show --textconv :public/board.js [7ms]
+2023-12-04 13:42:44.411 [info] > git ls-files --stage -- /home/pranitha/public/board.js [20ms]
+2023-12-04 13:42:44.427 [info] > git config --get commit.template [17ms]
+2023-12-04 13:42:44.431 [info] > git cat-file -s 9aee4f2061de91f4764a84c93720f2d9ff3ecbe6 [16ms]
+2023-12-04 13:42:44.433 [info] No remotes found in the git config file.
+2023-12-04 13:42:44.461 [info] > git check-ignore -v -z --stdin [14ms]
+2023-12-04 13:42:44.463 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [25ms]
+2023-12-04 13:42:44.851 [info] > git status -z -uall [380ms]
+2023-12-04 13:42:53.947 [info] > git config --get commit.template [1ms]
+2023-12-04 13:42:53.952 [info] No remotes found in the git config file.
+2023-12-04 13:42:53.953 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-12-04 13:42:54.264 [info] > git status -z -uall [307ms]
+2023-12-04 13:42:59.287 [info] > git config --get commit.template [6ms]
+2023-12-04 13:42:59.287 [info] No remotes found in the git config file.
+2023-12-04 13:42:59.287 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2023-12-04 13:42:59.757 [info] > git status -z -uall [464ms]
+2023-12-04 13:43:11.066 [info] > git config --get commit.template [1ms]
+2023-12-04 13:43:11.080 [info] No remotes found in the git config file.
+2023-12-04 13:43:11.080 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]

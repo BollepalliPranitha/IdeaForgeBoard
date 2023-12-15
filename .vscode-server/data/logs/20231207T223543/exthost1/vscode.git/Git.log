@@ -1,0 +1,39 @@
+2023-12-07 22:35:45.319 [info] Log level: Info
+2023-12-07 22:35:45.319 [info] Validating found git in: "git"
+2023-12-07 22:35:45.319 [info] Using git "2.34.1" from "git"
+2023-12-07 22:35:45.319 [info] > git rev-parse --show-toplevel [12ms]
+2023-12-07 22:35:45.320 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-12-07 22:35:45.335 [info] Open repository: /home/pranitha
+2023-12-07 22:35:45.362 [info] > git rev-parse --show-toplevel [7ms]
+2023-12-07 22:35:45.363 [info] > git config --get commit.template [15ms]
+2023-12-07 22:35:45.392 [info] No remotes found in the git config file.
+2023-12-07 22:35:45.394 [info] > git rev-parse --show-toplevel [26ms]
+2023-12-07 22:35:45.394 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-12-07 22:35:45.434 [info] > git rev-parse --show-toplevel [28ms]
+2023-12-07 22:35:45.440 [info] > git rev-parse --show-toplevel [2ms]
+2023-12-07 22:35:45.447 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-12-07 22:35:45.449 [info] Open repository: /home/pranitha/.nvm
+2023-12-07 22:35:45.459 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-07 22:35:45.459 [info] > git config --get commit.template [5ms]
+2023-12-07 22:35:45.470 [info] > git rev-parse --show-toplevel [5ms]
+2023-12-07 22:35:45.476 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [7ms]
+2023-12-07 22:35:45.480 [info] > git rev-parse --show-toplevel [5ms]
+2023-12-07 22:35:45.484 [info] > git rev-parse --show-toplevel [1ms]
+2023-12-07 22:35:45.488 [info] > git rev-parse --show-toplevel [0ms]
+2023-12-07 22:35:45.502 [info] > git status -z -uall [23ms]
+2023-12-07 22:35:45.511 [info] > git config --get commit.template [1ms]
+2023-12-07 22:35:45.516 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [1ms]
+2023-12-07 22:35:45.528 [info] > git status -z -uall [8ms]
+2023-12-07 22:35:45.768 [info] > git show --textconv :server.js [5ms]
+2023-12-07 22:35:45.769 [info] > git ls-files --stage -- /home/pranitha/server.js [2ms]
+2023-12-07 22:35:45.776 [info] > git cat-file -s fb6120843027dcdd2bcee442864ac88bc4b4bcf3 [2ms]
+2023-12-07 22:35:45.868 [info] > git check-ignore -v -z --stdin [2ms]
+2023-12-07 22:35:45.902 [info] > git status -z -uall [502ms]
+2023-12-07 22:35:45.920 [info] > git config --get commit.template [1ms]
+2023-12-07 22:35:45.924 [info] No remotes found in the git config file.
+2023-12-07 22:35:45.926 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-12-07 22:35:46.192 [info] > git status -z -uall [262ms]
+2023-12-07 22:35:53.547 [info] No remotes found in the git config file.
+2023-12-07 22:35:53.547 [info] > git config --get commit.template [6ms]
+2023-12-07 22:35:53.547 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-12-07 22:35:53.780 [info] > git status -z -uall [230ms]

@@ -160,3 +160,122 @@ vm
 code .
 
 code . 
+ngrok http 3000
+sudo service redis-server start
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm install
+ngrok http 3000
+code .
+sudo service redis-server start
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+ngrok http 3000
+code .
+sudo service redis-server start
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+code .
+sudo service redis-server start
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+ngrok http 3000
+sudo service redis-server start
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+sudo service redis-server start
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+code .
+ngrok http 3000
+sudo service redis-server start
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+sudo service redis-server start
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm
+npm install uuid
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+npm install uuid4
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+ngrok http 3000
+sudo service redis-server start
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+code .
+sudo service redis-server start
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm install uuid4
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+ngrok http 3000
+sudo service redis-server start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+code .
+npm i
+sudo service redis-server start
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+code .
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+sudo service redis-server start
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+npm i
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+sudo service redis-server start
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start
+code .
+sudo service redis-server start
+REDIS_URL=redis://localhost:6379 REDIS_TTL_SEC=86400 npm start

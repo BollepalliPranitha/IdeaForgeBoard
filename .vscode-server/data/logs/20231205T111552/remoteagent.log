@@ -1,0 +1,55 @@
+2023-12-05 11:15:52.536 [info] 
+
+
+
+
+2023-12-05 11:15:52.549 [info] Extension host agent started.
+2023-12-05 11:15:52.781 [info] [127.0.0.1][c97d8d7a][ManagementConnection] New connection established.
+2023-12-05 11:15:53.664 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] New connection established.
+2023-12-05 11:15:54.471 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] <1295> Launched Extension Host Process.
+2023-12-05 11:20:23.212 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] The client has reconnected.
+2023-12-05 11:20:23.414 [info] [127.0.0.1][c97d8d7a][ManagementConnection] The client has reconnected.
+2023-12-05 11:23:56.197 [info] [127.0.0.1][c97d8d7a][ManagementConnection] The client has reconnected.
+2023-12-05 11:23:56.432 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] The client has reconnected.
+2023-12-05 11:56:48.570 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] The client has reconnected.
+2023-12-05 11:56:49.263 [info] [127.0.0.1][c97d8d7a][ManagementConnection] The client has reconnected.
+2023-12-05 11:56:56.210 [info] [127.0.0.1][c97d8d7a][ManagementConnection] The client has reconnected.
+2023-12-05 11:56:56.597 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] The client has reconnected.
+2023-12-05 13:04:34.963 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] The client has reconnected.
+2023-12-05 13:04:35.112 [info] [127.0.0.1][c97d8d7a][ManagementConnection] The client has reconnected.
+2023-12-05 13:05:34.882 [info] [127.0.0.1][c97d8d7a][ManagementConnection] The client has reconnected.
+2023-12-05 13:05:35.012 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] The client has reconnected.
+2023-12-05 13:06:43.388 [info] [127.0.0.1][c97d8d7a][ManagementConnection] The client has reconnected.
+2023-12-05 13:06:43.511 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] The client has reconnected.
+2023-12-05 13:07:55.741 [info] [127.0.0.1][c97d8d7a][ManagementConnection] The client has reconnected.
+2023-12-05 13:07:55.814 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] The client has reconnected.
+2023-12-05 13:27:54.194 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] The client has reconnected.
+2023-12-05 13:27:54.352 [info] [127.0.0.1][c97d8d7a][ManagementConnection] The client has reconnected.
+2023-12-05 13:56:50.682 [info] [127.0.0.1][c97d8d7a][ManagementConnection] The client has reconnected.
+2023-12-05 13:56:50.822 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] The client has reconnected.
+2023-12-05 14:00:26.362 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] The client has reconnected.
+2023-12-05 14:00:26.490 [info] [127.0.0.1][c97d8d7a][ManagementConnection] The client has reconnected.
+2023-12-05 14:38:48.842 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] The client has reconnected.
+2023-12-05 14:38:49.012 [info] [127.0.0.1][c97d8d7a][ManagementConnection] The client has reconnected.
+2023-12-05 15:39:37.706 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] The client has reconnected.
+2023-12-05 15:39:37.841 [info] [127.0.0.1][c97d8d7a][ManagementConnection] The client has reconnected.
+2023-12-05 15:52:25.507 [info] [127.0.0.1][c97d8d7a][ManagementConnection] The client has reconnected.
+2023-12-05 15:52:25.625 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] The client has reconnected.
+2023-12-05 15:59:39.175 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] The client has reconnected.
+2023-12-05 15:59:39.303 [info] [127.0.0.1][c97d8d7a][ManagementConnection] The client has reconnected.
+2023-12-05 16:05:34.158 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] The client has reconnected.
+2023-12-05 16:05:34.267 [info] [127.0.0.1][c97d8d7a][ManagementConnection] The client has reconnected.
+2023-12-05 16:17:33.149 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] The client has reconnected.
+2023-12-05 16:17:33.308 [info] [127.0.0.1][c97d8d7a][ManagementConnection] The client has reconnected.
+2023-12-05 16:17:43.136 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] The client has reconnected.
+2023-12-05 16:17:43.562 [info] [127.0.0.1][c97d8d7a][ManagementConnection] The client has reconnected.
+2023-12-06 13:11:54.709 [info] [127.0.0.1][c97d8d7a][ManagementConnection] The client has reconnected.
+2023-12-06 13:11:54.811 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] The client has reconnected.
+2023-12-06 13:16:12.064 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] The client has reconnected.
+2023-12-06 13:16:12.172 [info] [127.0.0.1][c97d8d7a][ManagementConnection] The client has reconnected.
+2023-12-06 13:32:01.891 [info] [127.0.0.1][c97d8d7a][ManagementConnection] The client has reconnected.
+2023-12-06 13:32:02.092 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] The client has reconnected.
+2023-12-06 13:32:09.196 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] The client has reconnected.
+2023-12-06 13:32:09.423 [info] [127.0.0.1][c97d8d7a][ManagementConnection] The client has reconnected.
+2023-12-06 16:45:29.531 [info] [127.0.0.1][c97d8d7a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-06 16:45:29.629 [info] [127.0.0.1][85f3c512][ExtensionHostConnection] <1295> Extension Host Process exited with code: 0, signal: null.
